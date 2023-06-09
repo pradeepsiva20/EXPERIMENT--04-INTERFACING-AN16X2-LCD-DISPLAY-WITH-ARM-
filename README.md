@@ -216,8 +216,10 @@ int main(void)
  ![output pg](https://user-images.githubusercontent.com/120539823/235182456-06fe1fa6-626b-46a2-9e87-cf62edc156bb.jpg)
 
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
  
+ ![Screenshot 2023-06-09 142742](https://github.com/pradeepsiva20/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/120539823/3231ecac-d29d-4f95-9503-511277cb4f67)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
